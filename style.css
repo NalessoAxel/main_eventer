@@ -1,0 +1,18 @@
+html {
+    font-family: 'Cinzel', serif;
+font-family: 'Comfortaa', cursive;
+padding: 200px ;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.is-size-1{
+
+    text-decoration: underline;
+    text-decoration-color: #4e0b0b ;
+    text-align: center;
+}    
+
+
