@@ -1,9 +1,42 @@
 #titre {
-    border-bottom: 5px solid red;
+    padding-top: 10%;
+    border-bottom: 5px solid #AF0102;
     color: black;
     font-family: 'Comfortaa', cursive;
 }
 
-#texte1{
-    padding-top: 23%;
+#text1{
+    padding-top: 13%;
 }
+
+#box-alert{
+    font-family: 'Comfortaa', cursive;
+    border : 2px solid white;
+    background-color: #AF0102;
+    color: white;
+    position: absolute;
+    padding: 3px 3px 3px 3px;
+    width: 175px;
+    bottom : 80%;
+    left: 20%;
+}
+
+@media screen and (max-width: 640px) {
+    #box-alert {
+      display:block;
+      border : 1px solid black;
+      position: static;
+      clear:both;
+      width: 100%;
+    }
+
+    #text1{
+        padding-top: 0%;
+    }
+
+    #titre {
+        padding-top: 0%;
+    }
+
+
+  }
