@@ -21,7 +21,7 @@
     left: 20%;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 768px) {
     #box-alert {
       display:block;
       border : 1px solid black;
