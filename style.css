@@ -5,6 +5,13 @@
     font-family: 'Comfortaa', cursive;
 }
 
+#titre-bas{
+    padding-top: 10%;
+    border-bottom: 5px solid #AF0102;
+    color: black;
+    font-family: 'Comfortaa', cursive;
+}
+
 #text1{
     padding-top: 13%;
 }
