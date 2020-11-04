@@ -2,12 +2,6 @@
 /* font-family: 'Cinzel', serif; */
 /* font-family: 'Comfortaa', cursive; */
 
-/* HEADER */
-* {
-    margin: 0;
-    padding: 0;
-    
-}
 .column.is-full {
     display: flex;
     flex-direction: row;
@@ -42,8 +36,9 @@ nav.navbar {
 nav.navbar a {
     text-decoration: none;
 }
-nav.navbar a:hover {
+.navbar-item:hover {
     text-decoration: none;
+    background: transparent;
 }
 
 
