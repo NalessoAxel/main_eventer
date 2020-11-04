@@ -2,6 +2,8 @@
 /* font-family: 'Cinzel', serif; */
 /* font-family: 'Comfortaa', cursive; */
 
+
+/* HEADER */
 .column.is-full {
     display: flex;
     flex-direction: row;
@@ -42,10 +44,10 @@ nav.navbar a {
 }
 
 
-@media only screen and (min-width: 0px) and (max-width: 1000px) {
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
     .logo {
-        max-width: 10%;
-        
+        width: 20%;
+        position: static;
 
         
     }
@@ -58,13 +60,8 @@ nav.navbar a {
 /* OUR TEAM */ 
 html {
 font-family: 'Comfortaa', cursive;
-<<<<<<< HEAD
 padding: 200px ;
 }
-=======
-padding: 200px ;
-} 
->>>>>>> 48cd2eee3f26d282d7e2b6ad484ca1c7bc97028a
 
 .img-circle {
     border-radius: 50%;
