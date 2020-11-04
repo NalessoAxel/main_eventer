@@ -19,40 +19,31 @@
     
 }
 .logo {
-    position: absolute;
-    
+    position: absolute;   
 }
 .nav {
-   
     position: absolute;
     bottom: 90%;
     left: 60%;
 }
-nav.navbar {
-    display: flex;
-    
-    background: transparent;
-    
-    
-}
-nav.navbar a {
-    text-decoration: none;
-}
-.navbar-item:hover {
-    text-decoration: none;
-    background: transparent;
+nav.navbar {   
+    background: transparent; 
 }
 
 
-@media only screen and (min-width: 600px) and (max-width: 1000px) {
+/* RESPONSIVE HEADER */
+
+@media only screen and (max-width: 768px) {
     .logo {
-        width: 20%;
-        position: static;
-
-        
+        width: 40%;   
     }
-    .nav {
-        
+    .navbar-item, .navbar-link {
+        display: none;
+    }
+}
+@media only screen and  (max-width: 500px) {
+    .logo {
+        width: 30%;   
     }
 }
 
@@ -120,3 +111,21 @@ padding: 200px ;
 
   }
 
+/* FOOTER */
+
+.footer {
+    background-image: url(/main_eventer/assets/images/swirl_pattern.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.footer p {
+    font-size: 30px;
+    font-weight: bold;
+    /* margin-left: 25px; */
+}
+.icon {
+    border-radius: 50%;
+    margin: 0 25px;
+}
