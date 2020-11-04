@@ -21,6 +21,23 @@
     left: 20%;
 }
 
+#button-size{
+    display: flex;
+    padding-top: 10px;
+    justify-self: center;
+}
+
+#send-button{
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+}
+
+#send-button:hover{
+    background-color: #AF0102;
+    color: white;
+    
+}
+
 @media screen and (max-width: 768px) {
     #box-alert {
       display:block;
