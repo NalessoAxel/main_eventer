@@ -1,5 +1,5 @@
 # Readme
-# Main Eventer Project
+# Main Eventer Project :computer:
 
 - Contributor
    * Axel Nalesso [Github](https://github.com/NalessoAxe)
@@ -30,11 +30,11 @@ You are a brand new web development company and you have landed your first custo
   
 ## Framework CSS
 
-- Bulma
+- Bulma  :fire:
 
 ## Extra 
 
-- Font Awesome Icon
+- Font Awesome Icon :mortar_board:
 
 ## Preview
 
