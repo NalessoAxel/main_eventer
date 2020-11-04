@@ -2,7 +2,6 @@
 /* font-family: 'Cinzel', serif; */
 /* font-family: 'Comfortaa', cursive; */
 
-
 .column.is-full {
     display: flex;
     flex-direction: row;
@@ -56,10 +55,11 @@ nav.navbar a {
 }
 
 
+/* OUR TEAM */ 
 html {
 font-family: 'Comfortaa', cursive;
 padding: 200px ;
-}
+} 
 
 .img-circle {
     border-radius: 50%;
@@ -70,8 +70,10 @@ padding: 200px ;
     text-decoration: underline;
     text-decoration-color: #4e0b0b ;
     text-align: center;
+    color: black; 
 }    
 
+/*WHO WE ARE */
 
 #titre {
     padding-top: 10%;
