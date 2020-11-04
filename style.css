@@ -57,14 +57,7 @@ padding: 200px ;
 .img-circle {
     border-radius: 50%;
 }
-
-.is-size-1{
-
-    text-decoration: underline;
-    text-decoration-color: #4e0b0b ;
-    text-align: center;
-    color: black; 
-}    
+ 
 
 /*WHO WE ARE */
 
@@ -94,6 +87,7 @@ padding: 200px ;
 #button-size{
     display: flex;
     padding-top: 10px;
+    padding-bottom: 10px;
     justify-content: center;
 }
 
