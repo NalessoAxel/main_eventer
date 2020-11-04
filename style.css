@@ -2,7 +2,6 @@
 /* font-family: 'Cinzel', serif; */
 /* font-family: 'Comfortaa', cursive; */
 
-
 .column.is-full {
     display: flex;
     flex-direction: row;
@@ -56,10 +55,16 @@ nav.navbar a {
 }
 
 
+/* OUR TEAM */ 
 html {
 font-family: 'Comfortaa', cursive;
-/* padding: 200px ; */
+<<<<<<< HEAD
+padding: 200px ;
 }
+=======
+padding: 200px ;
+} 
+>>>>>>> 48cd2eee3f26d282d7e2b6ad484ca1c7bc97028a
 
 .img-circle {
     border-radius: 50%;
@@ -70,8 +75,10 @@ font-family: 'Comfortaa', cursive;
     text-decoration: underline;
     text-decoration-color: #4e0b0b ;
     text-align: center;
+    color: black; 
 }    
 
+/*WHO WE ARE */
 
 #titre {
     padding-top: 10%;
