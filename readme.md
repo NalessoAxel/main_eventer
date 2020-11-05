@@ -11,7 +11,8 @@
   
 
 ## Project details
-You are a brand new web development company and you have landed your first customer.
+We are a web developement company. We just add our first customer. 
+He want a web page for his media eventer company.
 
 ## Objective
 
@@ -38,7 +39,7 @@ You are a brand new web development company and you have landed your first custo
 
 ## Preview
 
-[Preview](/main_eventer/preview_media_eventer.png)
+![Preview](https://i.ibb.co/nDWPB0L/preview-media-eventer.png)
 
 ## Github Pages Link
 [Pages](https://nalessoaxel.github.io/main_eventer/)
