@@ -11,8 +11,8 @@
   
 
 ## Project details
-      We are a web developement company. We just add our first customer. 
-      He want a web pahe for his media eventer company.
+We are a web developement company. We just add our first customer. 
+He want a web page for his media eventer company.
 
 ## Objective
 
@@ -39,7 +39,7 @@
 
 ## Preview
 
-[Preview](/main_eventer/preview_media_eventer.png)
+![Preview](/main_eventer/preview_media_eventer.png)
 
 ## Github Pages Link
 [Pages](https://nalessoaxel.github.io/main_eventer/)
