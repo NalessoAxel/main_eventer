@@ -11,7 +11,8 @@
   
 
 ## Project details
-You are a brand new web development company and you have landed your first customer.
+      We are a web developement company. We just add our first customer. 
+      He want a web pahe for his media eventer company.
 
 ## Objective
 
