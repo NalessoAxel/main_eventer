@@ -39,7 +39,7 @@ He want a web page for his media eventer company.
 
 ## Preview
 
-![Preview](https://ibb.co/THCW1Tg)
+![Preview](https://i.ibb.co/nDWPB0L/preview-media-eventer.png)
 
 ## Github Pages Link
 [Pages](https://nalessoaxel.github.io/main_eventer/)
