@@ -102,6 +102,41 @@ padding: 200px ;
     
 }
 
+/* OUR EVENTS */
+
+#our-events{
+    padding-top: 42%;
+    border-bottom: 5px solid #AF0102;
+    color: black;
+    font-family: 'Comfortaa', cursive;
+    font-size: 250% ;
+ }
+
+.head {
+    background-color: #9A0000;
+    color: white;
+}
+.month {
+    color: #97CEF9;
+    padding-top: 5px;
+}
+.activity{
+    padding-top: 10px;
+}
+.lorem {
+    color: darkgray;
+}
+
+#event {
+    border: 1px solid grey;
+    box-shadow: 9px 10px 20px -10px grey;
+    text-align: center;
+    padding: 0;
+    padding-bottom: 5% ;
+}
+
+/* RESPONSIVE */
+
 @media screen and (max-width: 768px) {
     #box-alert {
       display:block;
@@ -118,6 +153,11 @@ padding: 200px ;
     #titre {
         padding-top: 0%;
     }
+
+    #our-events {
+        padding-top: 0%;
+    }
+
 
 
   }
