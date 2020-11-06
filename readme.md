@@ -20,8 +20,8 @@ He want a web page for his media eventer company.
   Work as a team.
 ## How we proceed
 
-   - We start by making a trello to split the tasks.
-   [Trello](https://trello.com/b/emdzkMGB/maineventerproject)
+   - We start by making a trello to split the tasks :
+   [Trello](https://trello.com/b/emdzkMGB/maineventerproject).
    - We split the tasks by feature.
 
 ## Language 
