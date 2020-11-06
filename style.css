@@ -26,6 +26,9 @@
     bottom: 90%;
     left: 60%;
 }
+.navbar a:hover {
+    text-decoration: underline;
+}
 nav.navbar {   
     background: transparent; 
 }
